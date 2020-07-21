@@ -149,13 +149,13 @@
 /* Begin PBXFileReference section */
 		002C02F5691EBE1BDCF829E23F119C3A /* ConstraintMaker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMaker.swift; path = Source/ConstraintMaker.swift; sourceTree = "<group>"; };
 		01FEE014D0BC9DD0B049CCBE9AFAB0C7 /* Typealiases.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Typealiases.swift; path = Source/Typealiases.swift; sourceTree = "<group>"; };
-		02B092D65AB1C41842E267DF37978679 /* Pods_PLFloatingWindow_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PLFloatingWindow_Tests.framework; path = "Pods-PLFloatingWindow_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		02B092D65AB1C41842E267DF37978679 /* Pods_PLFloatingWindow_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PLFloatingWindow_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		030CF0788A51584BBC50859EFE2CC5C7 /* Pods-PLFloatingWindow_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PLFloatingWindow_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		0418015EAC4BC3C854BAC20516A1B3EA /* Measuable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Measuable.swift; path = Source/Measuable.swift; sourceTree = "<group>"; };
 		046E390463BC51FAC105E44300A5DAA3 /* ConstraintLayoutSupportDSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintLayoutSupportDSL.swift; path = Source/ConstraintLayoutSupportDSL.swift; sourceTree = "<group>"; };
 		05B9BB86883B5CAFFFEA9D318D97320A /* PLSuspendViewManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PLSuspendViewManager.swift; path = PLFloatingWindow/Classes/PLSuspendViewManager.swift; sourceTree = "<group>"; };
 		0A332B1AA95A2E228F949F665B004229 /* HandyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HandyJSON-prefix.pch"; sourceTree = "<group>"; };
-		0AC88E429ECE05AC2DD22366520E98A1 /* PLFloatingWindow.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = PLFloatingWindow.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0AC88E429ECE05AC2DD22366520E98A1 /* PLFloatingWindow.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = PLFloatingWindow.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		0BBF553A2776D646155A176844DDBA4F /* ConstraintMakerEditable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerEditable.swift; path = Source/ConstraintMakerEditable.swift; sourceTree = "<group>"; };
 		0E9F3E95F62F4F5C5D68470AEE92A458 /* Export.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Export.swift; path = Source/Export.swift; sourceTree = "<group>"; };
 		1367E8F7AFE83329297D85E0AAB60918 /* ConstraintDSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintDSL.swift; path = Source/ConstraintDSL.swift; sourceTree = "<group>"; };
@@ -201,7 +201,7 @@
 		6A304EB9969EDD7E0014E609B44E8D5F /* Pods-PLFloatingWindow_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PLFloatingWindow_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6BA6F10F4ACEEC0C7DE5818B035AB954 /* BuiltInBasicType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BuiltInBasicType.swift; path = Source/BuiltInBasicType.swift; sourceTree = "<group>"; };
 		6BC9BC2E5CD256EB4F50B0763EF6F677 /* Pods-PLFloatingWindow_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PLFloatingWindow_Example-frameworks.sh"; sourceTree = "<group>"; };
-		7386B93BA82878164D2EC1A228EABBD7 /* PLFloatingWindow.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PLFloatingWindow.framework; path = PLFloatingWindow.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7386B93BA82878164D2EC1A228EABBD7 /* PLFloatingWindow.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PLFloatingWindow.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		744C70A4B9F0050EEE378222E78BE035 /* ConstraintInsetTarget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintInsetTarget.swift; path = Source/ConstraintInsetTarget.swift; sourceTree = "<group>"; };
 		7BADF0890EA4E867B42594C5411898AB /* SnapKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapKit-umbrella.h"; sourceTree = "<group>"; };
 		7CAAB7604793FC2BE85770A4E29362FE /* UILayoutSupport+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UILayoutSupport+Extensions.swift"; path = "Source/UILayoutSupport+Extensions.swift"; sourceTree = "<group>"; };
@@ -214,8 +214,8 @@
 		8F91B3DA13B97CAFDEB1D6D0801B3D98 /* LayoutConstraintItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutConstraintItem.swift; path = Source/LayoutConstraintItem.swift; sourceTree = "<group>"; };
 		9156DC2A3752A9E358152F07C926381E /* PLFloatingWindow.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PLFloatingWindow.release.xcconfig; sourceTree = "<group>"; };
 		94F46D911697C18B9F49C731B0FB6CF5 /* Logger.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logger.swift; path = Source/Logger.swift; sourceTree = "<group>"; };
-		979486118B3E90C08386079D57962701 /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SnapKit.framework; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		979486118B3E90C08386079D57962701 /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F939B3724C9254FFBED9ED2F68C1AC4 /* TransformType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformType.swift; path = Source/TransformType.swift; sourceTree = "<group>"; };
 		A15A798191053E25C388C4442331F251 /* ISO8601DateTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ISO8601DateTransform.swift; path = Source/ISO8601DateTransform.swift; sourceTree = "<group>"; };
 		A1D941333D7EF7DEBFA2D679B54A3B15 /* Transformable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Transformable.swift; path = Source/Transformable.swift; sourceTree = "<group>"; };
@@ -227,7 +227,7 @@
 		AC8B6833F1CF8FA7BEAD2D40E979E587 /* DataTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DataTransform.swift; path = Source/DataTransform.swift; sourceTree = "<group>"; };
 		ADEECC9411D85C40AA0996C5B24F4900 /* ConstraintInsets.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintInsets.swift; path = Source/ConstraintInsets.swift; sourceTree = "<group>"; };
 		AE76A656CB04A4E947830E21321A0F29 /* ConstraintAttributes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintAttributes.swift; path = Source/ConstraintAttributes.swift; sourceTree = "<group>"; };
-		AF9CCFF5EF653EAB3F3610953D9967CD /* Pods_PLFloatingWindow_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PLFloatingWindow_Example.framework; path = "Pods-PLFloatingWindow_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF9CCFF5EF653EAB3F3610953D9967CD /* Pods_PLFloatingWindow_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PLFloatingWindow_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1E42C4FAA38DB82C9BB81E0151AC7F1 /* Pods-PLFloatingWindow_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PLFloatingWindow_Example-dummy.m"; sourceTree = "<group>"; };
 		B9E8776E385155D6F2C7175670C26C28 /* ConstraintMakerPriortizable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintMakerPriortizable.swift; path = Source/ConstraintMakerPriortizable.swift; sourceTree = "<group>"; };
 		BBDB7B225BC8EE84775C344D7C6E5A0B /* PLFloatingWindow.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PLFloatingWindow.debug.xcconfig; sourceTree = "<group>"; };
@@ -241,7 +241,7 @@
 		C6570483EB96277441B364F821DDF15C /* Pods-PLFloatingWindow_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PLFloatingWindow_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C730423F82054176D1C9811543289465 /* SnapKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SnapKit-Info.plist"; sourceTree = "<group>"; };
 		C7C92AC33E65F374742E40619174899D /* ConstraintLayoutSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintLayoutSupport.swift; path = Source/ConstraintLayoutSupport.swift; sourceTree = "<group>"; };
-		CD54121DDA84872534168702B5F92950 /* HandyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HandyJSON.framework; path = HandyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD54121DDA84872534168702B5F92950 /* HandyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HandyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBDECB916C363BE696C3774A670ADCC /* Debugging.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Debugging.swift; path = Source/Debugging.swift; sourceTree = "<group>"; };
 		CE1547CE1525F52ABB3A4C7DAA7DA360 /* HandyJSON.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HandyJSON.release.xcconfig; sourceTree = "<group>"; };
 		CF47CB0D218A829048A9EF43B8C2D601 /* Constraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constraint.swift; path = Source/Constraint.swift; sourceTree = "<group>"; };
@@ -260,11 +260,11 @@
 		EA43CAC82F279046159F74DB14AC87D1 /* PLGuideHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PLGuideHelper.swift; path = PLFloatingWindow/Classes/PLGuideHelper.swift; sourceTree = "<group>"; };
 		EC323562A39F4B4D11463BDA0F456302 /* PLFloatingWindow-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PLFloatingWindow-dummy.m"; sourceTree = "<group>"; };
 		EE7B029B40BEB81D75CEF55E2A755FDC /* FieldDescriptor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FieldDescriptor.swift; path = Source/FieldDescriptor.swift; sourceTree = "<group>"; };
-		F3A47E2F962F200DBC95E33A61899079 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F3A47E2F962F200DBC95E33A61899079 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F68FF8F08F73C42ECEEE1A01C9783C71 /* Pods-PLFloatingWindow_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PLFloatingWindow_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F822DD644EB82C76E1EECEB541634882 /* ConstraintView+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ConstraintView+Extensions.swift"; path = "Source/ConstraintView+Extensions.swift"; sourceTree = "<group>"; };
 		F84082E7D432FDD065C2B22414567FAC /* HandyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HandyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F87E0A78471F9FD9540AF39419D756B8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		F87E0A78471F9FD9540AF39419D756B8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9655B568DD9286C0E0823FEBDDF31FE /* PLFloatingWindow-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PLFloatingWindow-umbrella.h"; sourceTree = "<group>"; };
 		FA1208867FA9FDB39F8061D086A4A831 /* ConstraintLayoutGuide.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintLayoutGuide.swift; path = Source/ConstraintLayoutGuide.swift; sourceTree = "<group>"; };
 		FA4778668D141146D6D5A0E65135C13A /* Pods-PLFloatingWindow_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PLFloatingWindow_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -408,7 +408,6 @@
 				DAAA8D82A5F6B97116CA076E7C9FE8A1 /* URLTransform.swift */,
 				0BA27519F4AAEF8D62D62BAE390E008C /* Support Files */,
 			);
-			name = HandyJSON;
 			path = HandyJSON;
 			sourceTree = "<group>";
 		};
@@ -494,7 +493,6 @@
 				7CAAB7604793FC2BE85770A4E29362FE /* UILayoutSupport+Extensions.swift */,
 				14C231922AE84D8A151593FF044FC0DF /* Support Files */,
 			);
-			name = SnapKit;
 			path = SnapKit;
 			sourceTree = "<group>";
 		};
@@ -1001,8 +999,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
