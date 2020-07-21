@@ -1,0 +1,29 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - PLFloatingWindow (0.1.0):
+    - HandyJSON
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - HandyJSON
+  - PLFloatingWindow (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PLFloatingWindow:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  PLFloatingWindow: 9a540db7e43a5f18e2be9ed95a033cadb9f0d248
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: bc13a5ffe9cfcf70ecf4840540d382388139acb5
+
+COCOAPODS: 1.9.1

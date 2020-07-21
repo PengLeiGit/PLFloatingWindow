@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'PLFloatingWindow_Example' do
+  pod 'PLFloatingWindow', :path => '../'
+
+  target 'PLFloatingWindow_Tests' do
+    inherit! :search_paths
+  end
+  
+pod 'SnapKit'
+pod 'HandyJSON'
+end

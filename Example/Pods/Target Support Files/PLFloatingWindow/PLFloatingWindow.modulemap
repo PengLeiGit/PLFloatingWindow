@@ -1,0 +1,6 @@
+framework module PLFloatingWindow {
+  umbrella header "PLFloatingWindow-umbrella.h"
+
+  export *
+  module * { export * }
+}
